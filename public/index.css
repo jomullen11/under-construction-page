@@ -1,0 +1,13 @@
+html { 
+    background: url(under-construction.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+h1{
+    margin-top: 85vh;
+    text-align: center;
+    margin-left: -5vw;
+}
